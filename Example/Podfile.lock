@@ -1,0 +1,16 @@
+PODS:
+  - TRUNeteorking (0.1.0)
+
+DEPENDENCIES:
+  - TRUNeteorking (from `../`)
+
+EXTERNAL SOURCES:
+  TRUNeteorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TRUNeteorking: 6237c698d04f16803f1206657175b86d0ec38de7
+
+PODFILE CHECKSUM: 64efa50f4f72c8169ca3a4b63d8bcf903fe69133
+
+COCOAPODS: 1.9.1
